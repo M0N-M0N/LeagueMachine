@@ -6,10 +6,11 @@ os.environ["CUDA_VISIBLE_DEVICES"]="0,1"
 
 if __name__ == '__main__':
     #load yolo8 model
-    model = YOLO('yolov8n.yaml')
+    model = YOLO('./runs/detect/train6/weights/last.pt')
 
     torch.cuda.is_available()
 
     #model
     #results = model.train(data="./leagueofegends.v1i.yolov8/data.yaml", epochs=50, imgsz=640, device=1)  #train model device 1 is gpu
-    results = model.train(data="./trainingsets/data.yaml", epochs=100, device=1)
+    #results = model.train(data="./trainingsets/data.yaml", epochs=100, batch=2, device=1)
+    results = model.eval()
