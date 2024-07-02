@@ -42,18 +42,21 @@ def train_model( train_type, num_iteration):
     # results = model.eval()
     if train_type == "train":
         # results = model.train(data=filepath, epochs=new_epoch, device=1, workers=4, cache=False)
-        results = model.train(data=filepath, epochs=new_epoch, device=1,batch=6, imgsz=[1280, 720], cache=False)
+        #train till iteration 21 or consecutive early stoppage
+        # results = model.train(data=filepath, epochs=new_epoch, device=1,batch=6, imgsz=[1280, 720], cache=False)
+        #train till iteration 22
+        results = model.train(data=filepath, epochs=new_epoch, device=1,batch=5, imgsz=1280, optimizer='Adam', cache=False)
     elif train_type == "val":
         results = model.val()
 
     return results
 
 if __name__ == '__main__':
-    train_type = 'val'
+    train_type = 'train'
     # train_model()
 
-    i = 20
-    while i <= 20:
+    i = 21
+    while i <= 30:
         torch.cuda.empty_cache()
         train_model(train_type, i)
         i += 1

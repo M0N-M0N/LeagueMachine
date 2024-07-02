@@ -6,6 +6,7 @@ from collections import defaultdict
 import numpy as np
 
 import supervision as sv
+from datetime import datetime
 
 
 import sys
@@ -17,11 +18,11 @@ torch.cuda.is_available()
 torch.cuda.set_device(0)
 
 if __name__ == '__main__':
-    # Load the YOLOv8 model
-    model = YOLO("runs/detect/train21/weights/last.pt")
+    # Load the YOLO model
+    model = YOLO("runs/detect/train31/weights/last.pt")
 
     # Open the video file
-    video_path = "clips/timingmoments.mp4"
+    video_path = "clips/smart33.mp4"
     #cap = cv2.VideoCapture(video_path)
 
     byte_tracker = sv.ByteTrack()
@@ -50,4 +51,6 @@ if __name__ == '__main__':
 
         return trace_annotator.annotate(scene=resframe, detections=detections)
 
-    sv.process_video(source_path=video_path, target_path=f"result.mp4", callback=process_frame)
+    current_dateTime = datetime.now()
+    sv.process_video(source_path=video_path, target_path=f"yolov8hires_result.mp4", callback=process_frame)
+    print(datetime.now() - current_dateTime)
