@@ -15,16 +15,14 @@ def train_model( train_type, num_iteration):
 
     #prep num_iteration
     if num_iteration == 0:
-        new_epoch = 100
-        load_weights = 'yolov8s.yaml'
+        new_epoch = 600
+        # load_weights = 'yolov8s.yaml'
+        load_weights = 'yolov10s.yaml'
     else:
         train_iteration = "" if num_iteration == 1 else num_iteration
         new_epoch = 10 * num_iteration
-        load_weights = f"runs/detect/train{train_iteration}/weights/last.pt"
-
-
-
-
+        # new_epoch = 600 #* num_iteration
+        load_weights = f"runs/detect/train{train_iteration}/weights/best.pt"
 
     #for YOLOv10
     # model = YOLOv10("yolov10s.yaml")
@@ -45,7 +43,8 @@ def train_model( train_type, num_iteration):
         #train till iteration 21 or consecutive early stoppage
         # results = model.train(data=filepath, epochs=new_epoch, device=1,batch=6, imgsz=[1280, 720], cache=False)
         #train till iteration 22
-        results = model.train(data=filepath, epochs=new_epoch, device=1,batch=5, imgsz=1280, optimizer='Adam', cache=False)
+        # results = model.train(data=filepath, epochs=new_epoch, device=1,batch=5, imgsz=1280, optimizer='Adam', warmup_epochs=50, cache=False)
+        results = model.train(data=filepath, epochs=new_epoch, device=1, batch=5, imgsz=1280, optimizer='AdamW', warmup_epochs=50, cache=False)
     elif train_type == "val":
         results = model.val()
 
@@ -54,12 +53,20 @@ def train_model( train_type, num_iteration):
 if __name__ == '__main__':
     train_type = 'train'
     # train_model()
+    
+    print(torch.__version__)
+    print(torch.version.cuda)
+    print(torch.randn(1).cuda())
+    # print(torch.cuda.get_device_properties(0))
 
-    i = 21
-    while i <= 30:
-        torch.cuda.empty_cache()
-        train_model(train_type, i)
-        i += 1
+    # i = 3
+    # while i <= 3:
+    #     torch.cuda.empty_cache()
+    #     train_model(train_type, i)
+    #     i += 1
 
     # train_model(train_type)
+
+
+
 
