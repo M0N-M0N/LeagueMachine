@@ -1,0 +1,181 @@
+outputs and comparison
+Orenguteng/Llama-3.1-8B-Lexi-Uncensored-V2 with all-mpnet-base-v2
+5 
+Question: 
+Im a adc with kda of 1/0/0 and 36 cs within 5 minutes and 22 seconds, compare it to the average kda and cs of pro given the same role
+
+Answer:
+In the given data, I'll compare your KDA and CS to the average KDA and CS of pro ADC players in the given data.
+              Average KDA of ADC players within 5 minutes and 22 seconds: 0.45/0.45/0.45
+              Average CS of ADC players within 5 minutes and 22 seconds: 36.25
+              Your KDA: 1/0/0
+              Your CS: 36
+              Your KDA is above the average, your CS is equal to the average.
+              
+              Tips to improve:
+              1. Focus on last-hitting minions to improve your gold and experience gain.
+              2. Practice trading with the enemy laners to increase your gold income.
+              3. Be more aggressive and take fights when you have the advantage to increase your kill-to-death ratio.
+
+10
+Question:
+Im a adc with kda of 5/0/1 and 97 cs within 10 minutes and 47 seconds, compare it to the average kda and cs of pro given the same role
+Answer: 
+In the given data, I'll compare your KDA and CS to the average KDA and CS of pro ADC players in the given data.
+              Average KDA of ADC players within 10 minutes and 20 seconds: 2.47/2.58/2.47
+              Average CS of ADC players within 10 minutes and 20 seconds: 83.47
+              Your KDA: 5/0/1
+              Your CS within 10 minutes and 20 seconds: 97
+              Your KDA is above the average, your CS is above the average.
+              
+              Tips to improve:
+              1. Maintain your high CS by focusing on farming and getting more minion kills.
+              2. Practice your game sense to avoid unnecessary deaths and improve your kill-to-death ratio.
+              3. Continue to improve your mechanics and aim to take fights when you have the advantage.
+
+15
+Question:
+Im a adc with kda of 11/0/1 and 158 cs within 15 minutes and 54 seconds, compare it to the average kda and cs of pro given the same role
+Answer:
+In the given data, I'll compare your KDA and CS to the average KDA and CS of pro ADC players in the given data.
+              Average KDA of ADC players within 15 minutes and 54 seconds: 2.15/2.39/2.22
+              Average CS of ADC players within 15 minutes and 54 seconds: 94.67
+              Your KDA: 11/0/1
+              Your CS within 15 minutes and 54 seconds: 158
+              Your KDA is above the average, your CS is above the average.
+              
+              Tips to improve:
+              1. Maintain your high kill rate by staying aggressive and taking fights when you have the advantage.
+              2. Focus on last-hitting minions to increase your CS and gold income.
+              3. Practice your positioning and timing to avoid taking unnecessary deaths.
+
+
+
+
+
+
+Orenguteng/Llama-3.1-8B-Lexi-Uncensored-V2
+multi-qa-mpnet-base-cos-v1 - for semantic search
+
+5
+Answer:
+In the given data, I'll compare your KDA and CS to the average KDA and CS of pro ADC players in the given data.
+              Average KDA of ADC players within 5 minutes and 22 seconds: 2.42/3.44/3.11
+              Average CS of ADC players within 5 minutes and 22 seconds: 69.29
+              Your KDA: 1/0/0
+              Your CS within 5 minutes and 22 seconds: 36
+              Your KDA is below the average, your CS is below the average.
+              
+              Tips to improve:
+              1. Improve your kill-to-death ratio by being more aggressive and taking fights when you have a gold advantage.
+              2. Practice last-hitting minions to improve your CS and increase your gold income.
+              3. Focus on farming and getting more CS within the early game to increase your gold and item advantage.
+
+10
+Answer:
+In the given data, I'll compare your KDA and CS to the average KDA and CS of pro ADC players in the given data.
+               Average KDA of ADC players within 10 minutes and 20 seconds: 3.17/3.33/3.17
+               Average CS of ADC players within 10 minutes and 20 seconds: 55.42
+               Your KDA: 5/0/1
+               Your CS within 10 minutes and 20 seconds: 97
+               Your KDA is above the average, your CS is above the average.
+                   
+                   Tips to improve:
+                   1. Maintain your aggressive playstyle to keep your KDA high.
+                   2. Continue to focus on farming and getting more CS within the early game to increase your gold and item advantage.
+                   3. Practice roaming and taking objectives to increase your gold and experience gain.
+
+15
+Answer:
+In the given data, I'll compare your KDA and CS to the average KDA and CS of pro ADC players in the given data.
+              Average KDA of ADC players within 15 minutes and 54 seconds: 4.53/3.47/3.47
+              Average CS of ADC players within 15 minutes and 54 seconds: 234.47
+              Your KDA: 11/0/1
+              Your CS: 158
+              Your KDA is above the average, your CS is below the average.
+              
+              Tips to improve:
+              1. Focus on farming and getting more CS within the early game to increase your gold and item advantage.
+              2. Practice last-hitting minions to improve your CS and increase your gold income.
+              3. Improve your kill-to-death ratio by being more aggressive and taking fights when you have the advantage.
+
+
+msmarco-bert-base-dot-v5 - ms marco passage models
+
+
+5
+In the given data, I'll compare your KDA and CS to the average KDA and CS of pro ADC players in the given data.
+               Average KDA of ADC players within 5 minutes and 22 seconds: 2.42/2.42/2.42
+               Average CS of ADC players within 5 minutes and 22 seconds: 36.78
+               Your KDA: 1/0/0
+               Your CS: 36
+               Your KDA is below the average, your CS is above the average.
+               
+               Tips to improve:
+               1. Focus on taking fights and getting kills to improve your KDA.
+               2. Practice roaming and taking objectives to increase your gold and item advantage.
+               3. Improve your positioning and timing to avoid getting killed.
+10
+In the given data, I'll compare your KDA and CS to the average KDA and CS of pro ADC players in the given data.
+              Average KDA of ADC players within 10 minutes and 20 seconds: 2.33/2.58/2.33
+              Average CS of ADC players within 10 minutes and 20 seconds: 54.47
+              Your KDA: 5/0/1
+              Your CS within 10 minutes and 20 seconds: 97
+              Your KDA is above the average, your CS is below the average.
+              
+              Tips to improve:
+              1. Focus on farming and getting more CS within the early game to increase your gold and item advantage.
+              2. Practice last-hitting minions to improve your CS and increase your gold income.
+              3. Improve your kill-to-death ratio by being more aggressive and taking fights when you have the advantage   
+15
+In the given data, I'll compare your KDA and CS to the average KDA and CS of pro ADC players in the given data.
+              Average KDA of ADC players within 15 minutes and 54 seconds: 4.83/4.13/4.83
+              Average CS of ADC players within 15 minutes and 54 seconds: 114.47
+              Your KDA: 11/0/1
+              Your CS: 158
+              Your KDA is above the average, your CS is above the average.
+              
+              Tips to improve:
+              1. Continue to maintain a high kill-to-death ratio by taking fights and avoiding unnecessary deaths.
+              2. Focus on getting more CS by improving your last-hitting minions and taking objectives.
+              3. Practice roaming and helping your allies to increase your gold income and team's overall performance.
+
+
+all-distilroberta-v1
+
+5
+In the given data, I'll compare your KDA and CS to the average KDA and CS of pro ADC players in the given data.
+              Average KDA of ADC players within 5 minutes and 22 seconds: 1.13/0.53/0.53
+              Average CS of ADC players within 5 minutes and 22 seconds: 44.47
+              Your KDA: 1/0/0
+              Your CS within 5 minutes and 22 seconds: 36
+              Your KDA is above the average, your CS is below the average.
+              
+              Tips to improve:
+              1. Focus on farming and getting more CS within the early game to increase your gold and item advantage.
+              2. Practice last-hitting minions to improve your CS and increase your gold income.
+              3. Improve your kill-to-death ratio by being more aggressive and taking fights when you have a gold advantage.
+10
+In the given data, I'll compare your KDA and CS to the average KDA and CS of pro ADC players in the given data.
+              Average KDA of ADC players within 10 minutes and 20 seconds: 2.33/2.58/2.33
+              Average CS of ADC players within 10 minutes and 20 seconds: 54.47
+              Your KDA: 5/0/1
+              Your CS within 10 minutes and 20 seconds: 97
+              Your KDA is above the average, your CS is below the average.
+              
+              Tips to improve:
+              1. Focus on farming and getting more CS within the early game to increase your gold and item advantage.
+              2. Practice last-hitting minions to improve your CS and increase your gold income.
+              3. Improve your kill-to-death ratio by being more aggressive and taking fights when you have the advantage.
+15
+In the given data, I'll compare your KDA and CS to the average KDA and CS of pro ADC players in the given data.
+              Average KDA of ADC players within 15 minutes and 54 seconds: 5.38/3.38/3.38
+              Average CS of ADC players within 15 minutes and 54 seconds: 183.47
+              Your KDA: 11/0/1
+              Your CS within 15 minutes and 54 seconds: 158
+              Your KDA is above the average, your CS is below the average.
+              
+              Tips to improve:
+              1. Focus on farming and getting more CS within the early game to increase your gold and item advantage.
+              2. Practice last-hitting minions to improve your CS and increase your gold income.
+              3. Improve your kill-to-death ratio by being more aggressive and taking fights when you have the advantage.

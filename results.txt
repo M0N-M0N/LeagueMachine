@@ -1,0 +1,172 @@
+End Process Video False end time: 2024-08-21 11:45:02.278423  processing Time:  0:11:03.730213 vicgalle-Humanish-Roleplay-Llama-3.1-8B-all-MiniLM-L12-v2-2.mp4
+
+<|eot_id|>
+            <|start_header_id|>
+              assistant
+            <|end_header_id|>
+              Compare to the given data, your stats for a 15 minute ADC are quite good:
+             Kills: 11 (avg 5.5), Deaths: 0 (avg 2.4), Assists: 1 (avg 4.3) 
+             CS: 158 (avg 71)
+             You're above average on kills, assists, and CS. The average ADC has slightly more deaths than you.
+             At 15 minutes these are the recommended items for ADC:
+             Doran's Blade, Doran's Shield, Trinity Force
+             To improve:
+             1. Focus on last-hitting minions to get more CS, especially in lane.
+             2. Play more defensively and avoid fights if you're not ready.
+             3. Position yourself well to help your jungler and engage at optimal times.
+             Overall, you're playing at a high level for your role and time! Keep up the good work.<|eot_id|>
+End Process Video False end time: 2024-08-21 14:58:56.504462  processing Time:  0:08:47.998449
+
+
+vicgalle/Configurable-Llama-3.1-8B-Instruct
+Compare to the given data, your stats are quite good for a 5 minute ADC:
+             Kills: 1 (avg 1.4), Deaths: 0 (avg 1.2), Assists: 0 (avg 1.4)
+             CS: 36 (avg 35)
+             You're above average on kills and deaths, and below average on assists. The average ADC has slightly more assists than you.
+             At 5 minutes these are the recommended items for ADC: 
+             Doran's Blade, Hunter's Pants, 2x Hunter's Arrow
+             To improve:
+             1. Focus on last-hitting minions to get more CS, especially in lane.
+             2. Play more defensively and avoid fights if you're not ready.
+             3. Position yourself well to help your jungler and engage at optimal times.
+
+Compare to the given data, your stats are quite good for a 15 minute ADC:
+              Kills: 11 (avg 5.8), Deaths: 0 (avg 2.4), Assists: 1 (avg 4.3) 
+              CS: 158 (avg 71)
+              You're above average on kills, assists and CS. The average ADC has slightly more deaths than you.
+              At 15 minutes these are the recommended items for ADC: 
+              Doran's Shield, Needlessly Large Rod, Trinity Force
+              To improve:
+              1. Focus on last-hitting minions to get more CS, especially in lane. 
+              2. Play more defensively and avoid fights if you're not ready. 
+              3. Position yourself well to help your jungler and engage at optimal times. 
+              Overall, you're playing at a high level for your role and time! Keep up the good work.<|eot_id|>
+End Process Video False end time: 2024-08-21 15:56:56.561979  processing Time:  0:08:30.111311
+
+
+meta llama 3.1 all-MiniLM-L12-v2
+5
+Your stats are quite good for a 5-minute ADC:
+              Kills: 1 (avg 1.2), Deaths: 0 (avg 1.6), Assists: 0 (avg 2.4) 
+              CS: 36 (avg 31.2)
+              You're above average on kills, assists and CS. The average ADC has slightly more deaths than you. 
+              At 5 minutes these are the recommended items for ADC: 
+              Doran's Blade, Health Potion, 5x Minion Hunter's Knife 
+              To improve:
+              1. Focus on last-hitting minions to get more CS, especially in lane. 
+              2. Play more defensively and avoid fights if you're not ready. 
+              3. Position yourself well to help your jungler and engage at optimal times.
+              Overall, you're playing at a high level for your role and time! Keep up the good work.
+10 
+Your stats are quite good for a 10 minute ADC:
+              Kills: 5 (avg 3.8), Deaths: 0 (avg 2.1), Assists: 1 (avg 3.8) 
+              CS: 97 (avg 73)
+              You're above average on kills, assists and CS. The average ADC has slightly more deaths than you. 
+              At 10 minutes these are the recommended items for ADC: 
+              Doran's Blade, Needlessly Large Rod, Long Sword
+              To improve:
+              1. Focus on last-hitting minions to get more CS, especially in lane. 
+              2. Play more defensively and avoid fights if you're not ready. 
+              3. Position yourself well to help your jungler and engage at optimal times.
+              Overall, you're playing at a high level for your role and time! Keep up the good work.
+15
+Your stats are quite good for a 15 minute ADC:
+             Kills: 11 (avg 6.4), Deaths: 0 (avg 3.2), Assists: 1 (avg 3.2) 
+             CS: 158 (avg 104)
+             You're above average on kills, assists, and CS. The average ADC has slightly more deaths than you. 
+             At 15 minutes these are the recommended items for ADC: 
+             Doran's Shield, Needlessly Large Rod, Long Sword
+             To improve:
+             1. Focus on last-hitting minions to get more CS, especially in lane. 
+             2. Play more defensively and avoid fights if you're not ready. 
+             3. Position yourself well to help your jungler and engage at optimal times.
+             Overall, you're playing at a high level for your role and time! Keep up the good work.<|eot_id|>
+End Process Video False end time: 2024-08-22 12:15:48.019882  processing Time:  0:08:26.167240
+
+llama 3.1 valiant 
+5
+At 5 minutes, ADCs with 1 kill, 0 death, and 0 assist, and 36 CS are above average. They have slightly more kills and assists compared to their counterparts in the same position. 
+              Recommended items: Guardian Angel, Zeal, Lord Dominik's Regards
+              Tips to improve:
+              1. Focus on last-hitting minions to get more CS, especially in lane.
+              2. Play more defensively and avoid fights if you're not ready.
+              3. Position yourself well to help your jungler and engage at optimal times. 
+              Overall, you're playing at a high level for your role and time! Keep up the good work.10
+Your stats are quite good for a 10 minute ADC:
+              Kills: 5 (avg 4.3), Deaths: 0 (avg 2.4), Assists: 1 (avg 4.3) 
+              CS: 97 (avg 71)
+              You're above average on kills, assists and CS. The average ADC has slightly more deaths than you.                                         
+              At 10 minutes these are the recommended items for ADC: 
+              Berserker's Greaves, Zeal, Blade of the Ruined King                    
+              To improve:
+              1. Focus on last-hitting minions to get more CS, especially in lane. 
+              2. Play more defensively and avoid fights if you're not ready. 
+              3. Position yourself well to help your jungler and engage at optimal times.
+              Overall, you're playing at a high level for your role and time! Keep up the good work. 
+              Recommended Items: 
+              1. Berserker's Greaves 
+              2. Zeal 
+              3. Blade of the Ruined King 
+              Tips to improve:
+              1. Focus on last-hitting minions to get more CS, especially in lane. 
+              2. Play more defensively and avoid fights if you're not ready. 
+              3. Position yourself well to help your jungler and engage at optimal times. 
+              1. Focus on last-hitting minions to get more CS, especially in lane. 
+              2. Play more defensively and avoid fights if you're not ready. 
+              3. Position yourself well to help your jungler and engage at optimal times. 
+              1. Focus on last-hitting minions to get more CS, especially in lane. 
+              2. Play more defensively and avoid fights if you're not ready. 
+              3. Position yourself well to help your jungler and engage at optimal times. 
+              1. Focus on last-hitting minions to get more CS, especially in lane. 
+              2. Play more defensively and avoid fights if you're not ready. 
+              3. Position yourself well to help your jungler and engage at optimal times. 
+              1. Focus on last-hitting minions to get more CS, especially in lane. 
+              2. Play more defensively and avoid fights if you're not ready. 
+15
+Compare to average ADC stats at 15 minutes:
+               Kills: 5.3 (avg 11), Deaths: 1.3 (avg 0), Assists: 1.3 (avg 1), CS: 157 (avg 158)
+               You're above average on kills and assists. Focus on last-hitting minions to get more CS, especially in lane. Play more defensively and avoid fights if you're not ready. Position yourself well to help your jungler and engage at optimal times.
+               Recommended items: Lord Dominik's Regards, Sterak's Gage, Youmuu's Ghostblade
+               To improve:
+               1. Focus on last-hitting minions to get more CS, especially in lane.
+               2. Play more defensively and avoid fights if you're not ready.
+               3. Position yourself well to help your jungler and engage at optimal times.<|eot_id|>
+End Process Video False end time: 2024-08-22 16:39:02.103698  processing Time:  0:07:58.830767
+
+
+
+
+meta llama 3.1
+For a 5-minute ADC, your stats are slightly above average:
+              Kills: 1 (avg 0.6), Deaths: 0 (avg 1.4), Assists: 0 (avg 2.1)
+              CS: 36 (avg 26)
+              You're above average on kills and CS, below average on deaths and assists.
+              At 5 minutes these are the recommended items for ADC:
+              Doran's Blade, Hunter's Shoes, 3x health potions
+              To improve:
+              1. Focus on last-hitting minions to get more CS, especially in lane.
+              2. Be cautious in team fights and avoid taking unnecessary risks.
+              3. Communicate with your jungler to coordinate strategies.
+              Keep up the good work!
+ Your stats are quite good for a 10 minute ADC:
+              Kills: 5 (avg 3.5), Deaths: 0 (avg 2.3), Assists: 1 (avg 3.1)
+              CS: 97 (avg 73)
+              You're above average on kills and CS. The average ADC has slightly more deaths than you.
+              At 10 minutes these are the recommended items for ADC: 
+              Doran's Blade, Needlessly Large Rod, Long Sword
+              To improve:
+              1. Focus on last-hitting minions to get more CS, especially in lane.
+              2. Play more defensively and avoid fights if you're not ready.
+              3. Position yourself well to help your jungler and engage at optimal times.
+              Overall, you're playing at a high level for your role and time! Keep up the good work.
+For 15 minutes ADCs, average kills: 7.4, deaths: 2.3, assists: 2.5, cs: 133. At 15 minutes, your kills, assists, and cs are above average. Your deaths are slightly below average.
+Recommended Items: 
+1. Trinity Force
+2. Lord Dominik's Regards
+3. Youmuu's Ghostblade
+Tips to improve:
+1. Focus on laning phase and get more cs to snowball the game.
+2. Play more cautiously and avoid all-ins if you're not ready.
+3. Position yourself well to help your jungler and engage at optimal times.
+You're playing at a high level for your role and time! Keep up the good work.<|eot_id|>
+End Process Video False end time: 2024-08-22 18:57:47.696978  processing Time:  0:08:48.517249
