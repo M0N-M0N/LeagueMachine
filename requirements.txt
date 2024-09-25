@@ -1,0 +1,14 @@
+!pip install ultralytics
+!pip install supervision
+!pip install easyocr
+!pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
+!pip install transformers 
+!pip install langchain-huggingface
+!pip install langchain
+!pip install langchain-community
+!pip install bitsandbytes
+!pip install packaging
+!pip install ninja
+!pip install flash-attn --no-build-isolation
+!pip install --upgrade chromadb
+!pip install tk

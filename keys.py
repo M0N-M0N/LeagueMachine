@@ -1,0 +1,5 @@
+API_KEY = "RGAPI-a05bf198-237f-4cac-a23a-7a0d7a12f672"
+DEFAULT_REGION_CODE = "euw1"
+DEFAULT_REGION = "europe"
+
+HF_TOKEN = "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"
